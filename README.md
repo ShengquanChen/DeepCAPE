@@ -20,5 +20,8 @@ git clone https://github.com/ShengquanChen/DeepCAPE
 ```
 Installation has been tested in a Linux/MacOS platform with Python2.7.
 
+# OPENANNO
+We can use OPENANNO to annotate the chromatin accessibility of genomic regions across diverse types of cell lines, tissues, and systems. (http://bioinfo.au.tsinghua.edu.cn/openness/anno/ or http://159.226.47.242:65424/openness/anno/)
+
 # License
 This project is licensed under the MIT License - see the LICENSE file for details
